@@ -1,5 +1,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mine-ing&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
+Reddit: [mine_ing](https://www.reddit.com/u/mine_ing)
+
 ### :hammer_and_wrench: Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original-wordmark.svg" width="40" height="40"/>
